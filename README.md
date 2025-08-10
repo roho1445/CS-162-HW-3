@@ -1,4 +1,4 @@
-# Starter Code for CS162 HW3
+# CS162 HW3
 
 Welcome to the coding part for the HW3! 
 
